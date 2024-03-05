@@ -1,0 +1,41 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.whole{
+    background-color:whitesmoke;
+    display:flex;
+    flex-direction: row;
+    text-align:left;
+    margin: 180px;
+    color: white;
+    font-family: Outfit;
+}
+
+
+.sedans{
+  background-color:orange;  
+  padding: 70px;
+  border-radius:10px 0px 0px 10px;
+  color: transparent white;
+}
+.SUVS{
+    background-color:darkcyan ;
+    padding: 70px;
+    color: transparent white;
+}
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    padding: 70px;
+    border-radius: 0px 10px 10px 0px;
+    color:transparent white
+}
+button{
+    border-radius: 100px;
+    background-color:white;
+    padding: 8px;
+}
+
+
+
+/*border radius applies to the image clock wise direction*/
